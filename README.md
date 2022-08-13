@@ -1,4 +1,5 @@
-### Woodies
-1.  Лендинг c деревянными товарами
-2.  (HTML,CSS)
-3.  [Ссылка на проект в gh-pages](https://borishahn.github.io/woodies/)
+### Проект Woodies
+1. Описание: Данный проект содержит в себе информационный лендинг магазина деревянных товаров Woodies.
+2. Стек: HTML,CSS.
+3. Статус проекта: Завершён.
+4. [Ссылка на проект в gh-pages](https://borishahn.github.io/woodies/).
